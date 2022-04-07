@@ -1,0 +1,20 @@
+.container {
+    width: 800px;
+    margin: 3rem auto;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.w_33 {
+    background-color: antiquewhite;
+    width: 30%;
+    height: 300px;
+    border: 1px solid white;
+    margin: 0.5rem auto;
+    border-radius: 1rem;
+}
+
+.team_member {
+    text-align: center;
+}
